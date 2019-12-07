@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="491px" height="500px" viewBox="0 0 491 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 59.1 (101010) - https://sketch.com -->
+    <title>1F3211B4-9F7C-482C-AF84-534A6375465C@1</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Connected-cars-2" transform="translate(0.000000, -1829.000000)" fill-rule="nonzero">
+            <g id="main-2" transform="translate(-8.000000, 1830.000000)">
+                <path d="M249,397 C331.290428,397 398,330.290428 398,248 C398,165.709572 331.290428,99 249,99 C166.709572,99 100,165.709572 100,248 C100,330.290428 166.709572,397 249,397 Z" id="Oval" stroke="#D2D2D2" stroke-dasharray="5"></path>
+                <path d="M249,498 C386.518903,498 498,386.518903 498,249 C498,111.481097 386.518903,0 249,0 C111.481097,0 0,111.481097 0,249 C0,386.518903 111.481097,498 249,498 Z" id="Oval" stroke="#E4F0FE" stroke-dasharray="13"></path>
+                <circle id="Oval" stroke="#EAF4FF" cx="249.5" cy="248.5" r="187.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

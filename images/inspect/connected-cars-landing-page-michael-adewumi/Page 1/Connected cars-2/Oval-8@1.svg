@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="975px" height="250px" viewBox="0 0 975 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 59.1 (101010) - https://sketch.com -->
+    <title>BF954225-B4B0-41C2-8002-8DDEDEB64AFA@1</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#21AACB" offset="0%"></stop>
+            <stop stop-color="#5F56D9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Connected-cars-2" transform="translate(-233.000000, -366.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M827.569984,592.18912 C1124.07606,633.605961 1208,615.470021 1208,546.471831 C1208,505.449269 1208,272.85936 1062.86292,409 C1033.17953,436.843443 1006.81431,433.16 911,433.16 C817.568957,433.16 764.953365,370.093326 713,478.2 C711.992022,480.297441 723.350806,462.677838 713,461.832 C657.723384,457.314953 493.5,385 386.417345,412.311521 C356.040297,420.059213 320.860979,400.306876 291.591045,400.734817 C258.262331,401.222098 233,407.681578 233,421.527608 C233,455.405649 258.485453,468.178452 318.576629,570.136978 C378.667804,672.095504 638.982001,565.846596 827.569984,592.18912 Z" id="Oval-8"></path>
+        </g>
+    </g>
+</svg>
